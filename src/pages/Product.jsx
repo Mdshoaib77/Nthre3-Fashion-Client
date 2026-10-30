@@ -1255,7 +1255,7 @@ const Product = () => {
             {/* Delivery */}
             <div className='flex items-center mt-3 gap-x-2'>
               <FaTruckFast className='text-lg shrink-0' />
-              <span className='medium-14'>Free Delivery on orders over {currency}5000</span>
+              <span className='medium-14'>Free Delivery on orders over {currency}20000</span>
             </div>
 
             <hr className='w-2/3 my-3' />
